@@ -1,4 +1,1 @@
-console.log(cor) // saída: undefined
-var cor = "amarelo" 
-
-/*teste */
+console.log("Teste")
